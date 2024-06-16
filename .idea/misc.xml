@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/drawable/back.xml" value="0.1725" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/drawable/ice_add.xml" value="0.1725" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/drawable/ice_notification.xml" value="0.1725" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/drawable/send.xml" value="0.1725" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_base.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_sin.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_sup.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/activity_users.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/item_constant_recovered_message.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/item_constant_send_message.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/item_conteiner_recent_conversetion.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Chatting/app/src/main/res/layout/item_conteiner_user.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
